@@ -1,1 +1,19 @@
-/* Add CSS Styling */
+.odd_el {
+    background-color: palevioletred;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#second_el {
+    color: blue;
+    font-size: 36px;
+}
+
+.third_el {
+    font-size: 24px;
+}
+
+#fourth_el {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
